@@ -1,2 +1,2 @@
 # lamaustin66.github.io
-My website for privacy policy
+My website for app privacy policy
